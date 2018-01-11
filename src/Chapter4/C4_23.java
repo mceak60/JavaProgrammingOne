@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Program to display payroll given employee information
- * 
+ *
  * @author Nick Gonzalez
  */
 public class C4_23 {
