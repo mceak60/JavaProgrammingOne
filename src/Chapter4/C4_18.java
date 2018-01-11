@@ -1,9 +1,10 @@
 package Chapter4;
+
 import java.util.Scanner;
 
 /**
  * Program to determine weather user input matches majors and grade level
- * 
+ *
  * @author Nick Gonzalez
  */
 public class C4_18 {

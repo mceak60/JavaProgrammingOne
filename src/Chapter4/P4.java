@@ -1,9 +1,10 @@
 package Chapter4;
+
 import java.util.Scanner;
 
 /**
  * Program to determine which of two bids is better given hours and charge
- * 
+ *
  * @author Nick Gonzalez
  */
 public class P4 {

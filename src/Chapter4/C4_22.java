@@ -1,9 +1,10 @@
 package Chapter4;
+
 import java.util.Scanner;
 
 /**
  * Program to determine weather two given strings are substrings of each other
- * 
+ *
  * @author Nick Gonzalez
  */
 public class C4_22 {
