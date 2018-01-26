@@ -52,6 +52,7 @@ public class P8 {
      *
      * @param arr array to search
      * @param s string to search for
+     * @return a number equivalent to the day
      */
     public static int arrSearch(double[][] arr, String s) {
         if (s.equalsIgnoreCase("A")) {

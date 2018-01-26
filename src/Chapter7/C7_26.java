@@ -43,6 +43,7 @@ public class C7_26 {
      *
      * @param list1 first list to be compared
      * @param list2 second list to be compared
+     * @return true if they are equal, false if they are not
      */
     public static boolean equals(int[] list1, int[] list2) {
         if (Arrays.equals(list1, list2)) {

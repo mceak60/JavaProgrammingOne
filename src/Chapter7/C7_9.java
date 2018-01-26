@@ -24,6 +24,12 @@ public class C7_9 {
         System.out.println("The minimum is " + min(arr));
     }
 
+    /**
+     * Method to determine the minimum value of an array
+     *
+     * @param arr array to determine the minimum value
+     * @return minimum value
+     */
     public static double min(double[] arr) {
         double min = arr[0];
         for (int i = 1; i < arr.length; i++) {

@@ -41,6 +41,7 @@ public class P7 {
      * Method to find the average value of an array
      *
      * @param arr array to determine the average of
+     * @return average value
      */
     public static double avgArr(double[] arr) {
         int sum = 0;
